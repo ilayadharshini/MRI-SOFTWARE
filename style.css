@@ -1,0 +1,27 @@
+.col{
+    padding: 10px;
+    background-color: #bf266169;
+    margin-top: 10px;
+}
+.col h1{
+    color:white;
+}
+.template{
+    background-color: greenyellow;
+}
+.text-white img{
+    height: 450px;
+}
+.bg-dark{
+    padding: 10px;
+}
+@media only screen and (max-width: 500px){
+.text-white img{
+    height: 650px;
+}
+.w-100 {
+    width:98%;
+    margin-top: 40px;
+}
+}
+    
